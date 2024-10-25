@@ -1,2 +1,2 @@
 # Bamba_Projet
-Le but de ce projet c'est de comprendre pourquoi certains clients quitte la boite (church). 
+Le but de ce projet c'est de comprendre pourquoi certains clients quitte la boite (church). Pour ce fait, nous allons analyser le comportement des clients pour comprendre les raisons et par la suite de developper un modèle predictif afin d'identifier les clients à risque. Ce qui permettrait de prendre des mesures préventives pour améliorer la fidélité des clients et optimiser les stratégies marketing. 
